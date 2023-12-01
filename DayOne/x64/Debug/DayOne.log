@@ -1,0 +1,6 @@
+﻿  DayOne.cpp
+C:\Users\seele\source\repos\Zaid-Advent-Code\DayOne\DayOne.cpp(47,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DayOne\DayOne.cpp(48,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DayOne\DayOne.cpp(53,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DayOne\DayOne.cpp(57,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DayOne.vcxproj -> C:\Users\seele\source\repos\Zaid-Advent-Code\DayOne\x64\Debug\DayOne.exe
