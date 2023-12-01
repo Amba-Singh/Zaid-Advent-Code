@@ -4,4 +4,4 @@
 ### Challenge List:
 
 - [X] Day 1: Trebuchet?!
-- [X] Day 1^2: Trebuchet?! Part Two!
+- [X] Day 1<sup>2</sup>: Trebuchet?! Part Two!
