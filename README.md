@@ -3,4 +3,5 @@
 
 ### Challenge List:
 
-- [X][X] Day 1: Trebuchet?!
+- [X] Day 1: Trebuchet?!
+- [X] Day 1^2: Trebuchet?! Part Two!
