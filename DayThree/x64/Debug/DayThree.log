@@ -1,0 +1,6 @@
+﻿  DayThree.cpp
+C:\Users\seele\source\repos\Zaid-Advent-Code\DayThree\DayThree.cpp(30,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DayThree\DayThree.cpp(51,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DayThree\DayThree.cpp(112,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DayThree\DayThree.cpp(131,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DayThree.vcxproj -> C:\Users\seele\source\repos\Zaid-Advent-Code\DayThree\x64\Debug\DayThree.exe
