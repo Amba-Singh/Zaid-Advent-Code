@@ -10,8 +10,8 @@ Money on my watch means time is money, money on my hat means money on my mind, m
 - [X] Day 1<sup>2</sup>: Trebuchet?! Part Two!
 - [X] Day 2: Cube Conundrum
 - [X] Day 2<sup>2</sup>: Cube Conundrum Part Two!
-<<<<<<< HEAD
-=======
 - [X] Day 3: Gear Ratios
 - [X] Day 3<sup>2</sup>: Gear Ratios Part Two!
->>>>>>> 0e2807f8d53c083a98475fdeaecf2b1a12485cc8
+- [X] Day 4: Scratchcards
+- [X] Day 4<sup>2</sup>: Scratchcards Part Two!
+
