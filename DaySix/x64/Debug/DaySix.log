@@ -1,0 +1,5 @@
+﻿  DaySix.cpp
+C:\Users\seele\source\repos\Zaid-Advent-Code\DaySix\DaySix.cpp(12,19): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DaySix\DaySix.cpp(13,20): warning C4244: 'initializing': conversion from 'double' to '__int64', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DaySix\DaySix.cpp(57,32): warning C4244: '*=': conversion from '__int64' to 'int', possible loss of data
+  DaySix.vcxproj -> C:\Users\seele\source\repos\Zaid-Advent-Code\DaySix\x64\Debug\DaySix.exe
