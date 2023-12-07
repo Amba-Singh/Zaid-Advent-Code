@@ -14,4 +14,8 @@ Money on my watch means time is money, money on my hat means money on my mind, m
 - [X] Day 3<sup>2</sup>: Gear Ratios Part Two!
 - [X] Day 4: Scratchcards
 - [X] Day 4<sup>2</sup>: Scratchcards Part Two!
+- [X] Day 5: If You Give A Seed A Fertilizer
+- [X] Day 5<sup>2</sup>: If You Give A Seed A Fertilizer Part Two!
+- [ ] Day 6: Wait For It
+- [ ] Day 6<sup>2</sup>: Wait For It!
 
