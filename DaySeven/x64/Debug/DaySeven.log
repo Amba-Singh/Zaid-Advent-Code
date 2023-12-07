@@ -1,0 +1,5 @@
+﻿  DaySeven.cpp
+C:\Users\seele\source\repos\Zaid-Advent-Code\DaySeven\DaySeven.cpp(71,31): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DaySeven\DaySeven.cpp(126,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\seele\source\repos\Zaid-Advent-Code\DaySeven\DaySeven.cpp(124): warning C4715: '`EditRanks'::`2'::<lambda_1>::operator()': not all control paths return a value
+  DaySeven.vcxproj -> C:\Users\seele\source\repos\Zaid-Advent-Code\DaySeven\x64\Debug\DaySeven.exe
