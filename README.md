@@ -17,7 +17,11 @@ Money on my watch means time is money, money on my hat means money on my mind, m
 - [X] Day 5: If You Give A Seed A Fertilizer
 - [X] Day 5<sup>2</sup>: If You Give A Seed A Fertilizer Part Two!
 - [X] Day 6: Wait For It
-- [X] Day 6<sup>2</sup>: Wait For It!
+- [X] Day 6<sup>2</sup>: Wait For It Part Two!
 - [X] Day 7: Camel Cards
-- [X] Day 7 <sup>2</sup>: Camel Cards Part 2
+- [X] Day 7<sup>2</sup>: Camel Cards Part Two!
+- [X] Day 8: Haunted Wasteland
+- [X] Day 8<sup>2</sup>: Haunted Wasteland Part Two!
+- [X] Day 9: Mirage Maintenance
+- [X] Day 9<sup>2</sup>: Mirage Maintenance Part Two!
 
